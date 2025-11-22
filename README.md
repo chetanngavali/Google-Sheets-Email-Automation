@@ -2,6 +2,9 @@
 
 A powerful automation system that monitors Google Sheets for new entries and automatically sends personalized emails with PDF attachments using Hostinger SMTP.
 
+<img width="1918" height="796" alt="Google Sheets Email Automation" src="https://github.com/user-attachments/assets/29d83f80-8b0e-4f25-94c5-1cd72794d08d" />
+
+
 ## Features
 
 - 📊 **Google Sheets Integration** - Real-time monitoring of spreadsheet changes
